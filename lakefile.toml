@@ -7,4 +7,4 @@ name = "LeanExperiments"
 
 [[lean_exe]]
 name = "leanexperiments"
-root = "Main"
+root = "NatLike"
